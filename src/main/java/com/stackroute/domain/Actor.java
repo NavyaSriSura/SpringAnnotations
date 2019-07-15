@@ -1,10 +1,10 @@
 package com.stackroute.domain;
 
-public class Actor
-{
-String name;
+public class Actor {
+    String name;
     String gender;
     int age;
+
     public void setName(String name) {
         this.name = name;
     }
